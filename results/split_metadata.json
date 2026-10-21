@@ -1,0 +1,10 @@
+{
+  "dataset_sha256": "dc6630cd9b1f0f853922fad78a1b6436570d3f1ec863f1dd5c4340ac56bc8a8e",
+  "random_state": 42,
+  "row_index": "zero-based original CSV data row",
+  "method": "stratified 60/40, then stratified 50/50 of temporary rows",
+  "python": "3.12.13",
+  "pandas": "2.2.3",
+  "scikit_learn": "1.5.2",
+  "matplotlib": "3.9.2"
+}

@@ -1,0 +1,4 @@
+split,no_failure,failure,total,failure_rate
+train,5797,203,6000,0.03383333333333333
+validation,1932,68,2000,0.034
+test,1932,68,2000,0.034
